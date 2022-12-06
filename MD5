@@ -1,10 +1,10 @@
-f79f06552ad1da0a365399277bd5519a *DESCRIPTION
+af6c97706fe299b4addf05955968edfc *DESCRIPTION
 70480fe6a673d01d5200b75ceb526091 *LICENSE
 2a846f2f2d7d9415b59d4453aa1904e4 *NAMESPACE
-ebb7a57bceb840dd284e6671ff83dc00 *NEWS.md
+d5a85ac6c95dab6b87f302ccef19ba08 *NEWS.md
 d4970b6322b2e34c508412913f6e5c28 *R/roughnet.R
 5928bd68dd8ea17fbf27a989b6ca4c12 *R/save_roughnet.R
-81a633a43a689dcdf331206d9985d505 *README.md
+03854e180d5a92e6ce3f15a266a5053a *README.md
 fe1688b047c2c0f7755a81d858faad43 *inst/htmlwidgets/lib/rough/rough.js
 9460138076cfeb907bb8f5c4bb9b3802 *inst/htmlwidgets/roughnet.js
 8e24ddf60f70f0c5bfb93f6b02860ac0 *inst/htmlwidgets/roughnet.yaml
